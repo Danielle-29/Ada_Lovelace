@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(199, 199, 199);
+  height: 100%;
+}
+
+.foto {
+  background-color: white;
+  width: 50%;
+  height: 600px;
+  position: relative;
+  top: 20px;
+  left: 50px;
+}
+
+.titulo {
+  background-color: rgb(220, 220, 220);
+  text-align: center;
+  position: relative;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  top: 5px;
+  width: 95%;
+  height: 60px;
+  padding: 15px;
+  margin: 5px 15px 5px 15px;
+  border-radius: 5px 5px 1px 1px;
+}
+
+.imagem {
+  position: relative;
+  top: 10px;
+  left: 23%;
+  height: 85%;
+  width: 50%;
+}
+
+.texto {
+  width: 25%;
+  height: 80%;
+  font-size: 20px;
+  text-align: justify;
+  font-family: "Roboto", sans-serif;
+  position: relative;
+  bottom: 530px;
+  left: 60%;
+}
+
+
+
+
+
